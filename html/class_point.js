@@ -8,6 +8,7 @@ var class_point =
     [ "getY", "class_point.html#a2444daa96871c89614510bc4bfcd19ce", null ],
     [ "Imprime", "class_point.html#a7c50a40a930fb7f3adc0f8e7b60b7d79", null ],
     [ "norma", "class_point.html#aa3005a9d97e2cb05624414973a214788", null ],
+    [ "Rot", "class_point.html#a5d756c4b1cf7aeeb49ac79ff8cd3d1e9", null ],
     [ "setX", "class_point.html#acee4acaa1d515e9973145f977e500fe6", null ],
     [ "setXY", "class_point.html#afe2b937778d9fe5c135ab61de91271e9", null ],
     [ "setY", "class_point.html#a756b3f64d961a5059302f42e1fcf2332", null ],

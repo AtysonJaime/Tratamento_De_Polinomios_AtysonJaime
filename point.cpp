@@ -4,6 +4,8 @@
 
 using namespace std;
 
+#define pi 3.1415
+
 Point::Point(float mx, float my){
    x = mx;
    y = my;
@@ -68,5 +70,14 @@ void Point::translada(float a, float b)
 }
 
 void Point::Imprime(){
-   cout << "(" << x << ", " << y <<")" << endl;
+    cout << "(" << x << ", " << y <<")";
+}
+
+void Point::Rot(float ang){
+    float auxX=0, auxY=0;
+    auxX = (x*cos((ang * pi)/180.0)) - (y*sin((ang*pi)/180.0));
+    auxY = (x*sin((ang*pi)/180.0)) + (y*cos((ang * pi)/180.0));
+    x = auxX;
+    y = auxY;
+
 }

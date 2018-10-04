@@ -37,7 +37,9 @@ float \mbox{\hyperlink{class_point_aa3005a9d97e2cb05624414973a214788}{norma}} (v
 void \mbox{\hyperlink{class_point_ad9676e36f3444534b609e3c68422239a}{translada}} (float a, float b)
 \begin{DoxyCompactList}\small\item\em translada Translada o ponto (x,y) de (+a,+b), de modo que, após a execução do método, as coordenadas do ponto serão (x+a,y+b). \end{DoxyCompactList}\item 
 void \mbox{\hyperlink{class_point_a7c50a40a930fb7f3adc0f8e7b60b7d79}{Imprime}} ()
-\begin{DoxyCompactList}\small\item\em Imprime, Função que monstra na tela o ponto na forma (xpos,ypos);. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\begin{DoxyCompactList}\small\item\em Imprime, Função que monstra na tela o ponto na forma (xpos,ypos);. \end{DoxyCompactList}\item 
+void \mbox{\hyperlink{class_point_a5d756c4b1cf7aeeb49ac79ff8cd3d1e9}{Rot}} (float ang)
+\begin{DoxyCompactList}\small\item\em Rot, Função que rotaciona o ponto em torno de um angulo. \end{DoxyCompactList}\end{DoxyCompactItemize}
 
 
 \subsection{Detailed Description}
@@ -152,6 +154,21 @@ norma Calcula a distância do ponto a origem de coordenadas.
 \begin{DoxyReturn}{Returns}
 retorna a distância. 
 \end{DoxyReturn}
+\mbox{\Hypertarget{class_point_a5d756c4b1cf7aeeb49ac79ff8cd3d1e9}\label{class_point_a5d756c4b1cf7aeeb49ac79ff8cd3d1e9}} 
+\index{Point@{Point}!Rot@{Rot}}
+\index{Rot@{Rot}!Point@{Point}}
+\subsubsection{\texorpdfstring{Rot()}{Rot()}}
+{\footnotesize\ttfamily void Point\+::\+Rot (\begin{DoxyParamCaption}\item[{float}]{ang }\end{DoxyParamCaption})}
+
+
+
+Rot, Função que rotaciona o ponto em torno de um angulo. 
+
+
+\begin{DoxyParams}{Parameters}
+{\em ang,angulo} & passado como paramentro. \\
+\hline
+\end{DoxyParams}
 \mbox{\Hypertarget{class_point_acee4acaa1d515e9973145f977e500fe6}\label{class_point_acee4acaa1d515e9973145f977e500fe6}} 
 \index{Point@{Point}!setX@{setX}}
 \index{setX@{setX}!Point@{Point}}

@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['setx',['setX',['../class_point.html#acee4acaa1d515e9973145f977e500fe6',1,'Point']]],
-  ['setxy',['setXY',['../class_point.html#afe2b937778d9fe5c135ab61de91271e9',1,'Point']]],
-  ['sety',['setY',['../class_point.html#a756b3f64d961a5059302f42e1fcf2332',1,'Point']]],
-  ['sub',['sub',['../class_point.html#a9cf2c53b0a4e6282a6712824bb4e9b00',1,'Point']]]
+  ['point',['Point',['../class_point.html#a2e9cc55fe05ce04457997f4f19aaa28d',1,'Point::Point(float mx=0.0, float my=0.0)'],['../class_point.html#af0c0f20db1616447bc78184ed537ef6e',1,'Point::Point(const Point &amp;p)']]],
+  ['poligono',['Poligono',['../class_poligono.html#a9311a9a1496878c09c8508b3636e2870',1,'Poligono']]]
 ];

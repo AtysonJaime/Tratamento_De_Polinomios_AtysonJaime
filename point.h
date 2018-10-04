@@ -76,6 +76,13 @@ public:
      * @brief Imprime, Função que monstra na tela o ponto na forma (xpos,ypos);
      */
     void Imprime();
+
+    /**
+     * @brief Rot, Função que rotaciona o ponto em torno de um angulo
+     * @param ang, angulo passado como paramentro.
+     */
+    void Rot(float ang);
+
 };
 
 #endif // POINT_H

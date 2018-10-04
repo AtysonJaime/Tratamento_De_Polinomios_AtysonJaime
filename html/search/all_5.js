@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['point',['Point',['../class_point.html',1,'Point'],['../class_point.html#a2e9cc55fe05ce04457997f4f19aaa28d',1,'Point::Point(float mx=0.0, float my=0.0)'],['../class_point.html#af0c0f20db1616447bc78184ed537ef6e',1,'Point::Point(const Point &amp;p)']]],
-  ['point_2ecpp',['point.cpp',['../point_8cpp.html',1,'']]],
-  ['point_2eh',['point.h',['../point_8h.html',1,'']]]
+  ['n',['N',['../class_poligono.html#a9ee4bec594127166d10a527298addc53',1,'Poligono']]],
+  ['norma',['norma',['../class_point.html#aa3005a9d97e2cb05624414973a214788',1,'Point']]]
 ];

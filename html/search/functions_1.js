@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['getx',['getX',['../class_point.html#a9aa94b8fd07296e64d304ef3750db113',1,'Point']]],
-  ['gety',['getY',['../class_point.html#a2444daa96871c89614510bc4bfcd19ce',1,'Point']]]
+  ['enccentromassaret',['EncCentroMassaRet',['../class_retangulo.html#a0f6df53839be4fab7ffef3172481dcb6',1,'Retangulo']]]
 ];
